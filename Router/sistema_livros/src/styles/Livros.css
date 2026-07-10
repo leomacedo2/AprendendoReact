@@ -1,0 +1,10 @@
+.containerLivro {
+    height: 100vh;
+    background-image: url('../assets/img1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: aliceblue;
+
+}
+
